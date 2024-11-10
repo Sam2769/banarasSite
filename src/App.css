@@ -217,3 +217,9 @@ h2 {
   padding: 35px;
   background-color: royalblue;
 }
+
+#foodItem:hover {
+  transform: scale(1.2);
+  box-shadow: 0 8px 16px rgba(92, 19, 188, 0.605);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
