@@ -5,7 +5,7 @@ const NavBar = () => {
   return (
     <>
       <nav>
-        <h1 className = "mainHeading">
+        <h1 className="mainHeading">
           Heritage Of
           <br /> Banaras
         </h1>
